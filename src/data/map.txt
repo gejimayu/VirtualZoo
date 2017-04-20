@@ -1,0 +1,118 @@
+20 40
+wWWEaaaaaaaaaaaaaLLLLLLLLLLLLLLLLLWWWWww
+wWW_AAAAAAAAAAaaa_________________WWWWww
+wWW________AAAaaa_lllllllllLLLLLL______e
+wWW_llllll_____________llllLLLLLL_AAAaaa
+aaa___lllLLLLL_AAAAAAA_WWWWWLLLLL_AAAaaa
+aaAAA_lllLLLLL_AAaaaAA_WWWWWwwwww_AAAaaa
+aaAAA_lllwwwww_AAaaaAA_WWWWwwwwww_AAAaaa
+wWWWW_WWWWWWww_rrrrrrr_WWWWwwwwww_aaaaaa
+wWWWW____WWWww_rrrrrrr_WWWWwwwwww_aaaaaa
+llllllll_WWWww_rrrrrrr_ppppppwwww______e
+E______________________ppppppwWWW_AAAAAa
+pppp_lll_wwwwwwWWWWWW_pppppppwWWW_AAAAAa
+pppp_LLL_wwwwwwWWWWWW_pppppppwWWW_AAaaaa
+prrr_LLL_____wwWWWWWW_____________AAaaaa
+prrr_aaaaaaa_wwWWWWWW_rrrrrrrrrrr______e
+prrr_AAAAAaa__________rrrrrrrrrrr_LLLlll
+aaaa_AAAAAaa_ppppppll_rrrrrrrrrrr_LLLlll
+aaaa_________ppppppll____WWWwwwAA_LLLlll
+wwWWWWWppppp_pppppplLLLL_WWWwaaAA_llllll
+wwWWWWWpppppelllllllLLLLEwwwwaaAAellllll
+
+19
+
+Lion
+150
+1
+12 5
+
+Horse
+110
+0
+4 9
+
+Zebra
+90
+0
+5 10
+
+Monkey
+40
+0
+5 12
+
+Hipopotamus
+200
+0
+3 1
+
+Eagle
+70
+0
+1 8
+
+Giraffe
+90
+0
+15 35
+
+Dolphin
+80
+0
+10 30
+
+Sea_Lion
+70
+0
+17 25
+
+Shark
+120
+1
+18 5
+
+Panda
+130
+0
+18 20
+
+Snake
+30
+0
+15 37
+
+Alligator
+100
+0
+5 25
+
+Dolphin
+90
+0
+11 15
+
+Sea_Lion
+70
+0
+11 18
+
+Hipopotamus
+150
+0
+13 16
+
+Peacock
+30
+0
+15 5
+
+Eagle
+30
+0
+3 35
+
+Peacock
+40
+0
+11 37
